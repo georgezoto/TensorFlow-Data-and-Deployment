@@ -1,13 +1,11 @@
 # TensorFlow-Data-and-Deployment
-TensorFlow: Data and Deployment  
+TensorFlow: Data and Deployment presented to you by the coolest AI community out there, Deep Learning Adventures!
 
 ![alt text](images/Deep-Learning-Adventures.png)
 
 Join us for our 5th adventure on our journey to deep learning and data science in general 🎉 with the TensorFlow: Data and Deployment Specialization  
 
 https://www.coursera.org/specializations/tensorflow-data-and-deployment  
-
-![alt text](images/TF-Data-and-Deployment-1.png)
 
 Continue developing your skills in TensorFlow as you learn to navigate through a wide range of deployment scenarios and discover new ways to use data more effectively when training your machine learning models.
 
@@ -24,6 +22,8 @@ Course 1 Week 2
 Image Classification In the Browser  
 
 This week we'll look at Computer Vision problems, including some of the unique considerations when using JavaScript, such as handling thousands of images for training. By the end of this module you will know how to build a site that lets you draw in the browser and recognizes your handwritten digits!
+
+![alt text](images/TF-Data-and-Deployment-1.png)
 
 Join us on Slack:  
 https://join.slack.com/t/deeplearninga-nmk8930/shared_invite/zt-pnzo1ltc-9_aP~mZCTC5sbUkaQ0QTOw
