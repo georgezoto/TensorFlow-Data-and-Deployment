@@ -1,5 +1,5 @@
 # TensorFlow-Data-and-Deployment
-*TensorFlow: Data and Deployment* presented to you by the coolest AI community out there, *Deep Learning Adventures*: https://www.meetup.com/Deep-Learning-Adventures  
+**TensorFlow: Data and Deployment** presented to you by the coolest AI community out there, **Deep Learning Adventures**: https://www.meetup.com/Deep-Learning-Adventures  
 
 ![alt text](images/Deep-Learning-Adventures.png)
 
@@ -13,22 +13,22 @@ In this four-course Specialization, you’ll learn how to get your machine learn
 
 Industries all around the world are adopting Artificial Intelligence. This Specialization from Laurence Moroney and Andrew Ng will help you develop and deploy machine learning models across any device or platform faster and more accurately than ever.
 
-*Course 1 Week 1*  
+**Course 1 Week 1**  
 Introduction to TensorFlow.js  
 
 Welcome to Browser-based Models with TensorFlow.js, the first course of the TensorFlow for Data and Deployment Specialization. In this first course, we’re going to look at how to train machine learning models in the browser and how to use them to perform inference using JavaScript. This will allow you to use machine learning directly in the browser as well as on backend servers like Node.js. In the first week of the course, we are going to build some basic models using JavaScript and we'll execute them in simple web pages.
 
-*Course 1 Week 2*  
+**Course 1 Week 2**  
 Image Classification In the Browser  
 
 This week we'll look at Computer Vision problems, including some of the unique considerations when using JavaScript, such as handling thousands of images for training. By the end of this module you will know how to build a site that lets you draw in the browser and recognizes your handwritten digits!
 
 ![alt text](images/TF-Data-and-Deployment-1.png)
 
-*Join us on Slack*:  
+**Join us on Slack**:  
 https://join.slack.com/t/deeplearninga-nmk8930/shared_invite/zt-pnzo1ltc-9_aP~mZCTC5sbUkaQ0QTOw
 
-*Spread the word about our meetup* 🎉
+**Spread the word about our meetup** 🎉
 
-*Deep Learning YouTube playlists*, feel free to share and subscribe 😀  
-Our BRAND NEW *TF Data and Deployment YouTube playlist* is available at: http://bit.ly/dla-tf-data-deployment
+**Deep Learning YouTube playlists**, feel free to share and subscribe 😀  
+Our BRAND NEW **TF Data and Deployment YouTube playlist** is available at: http://bit.ly/dla-tf-data-deployment
