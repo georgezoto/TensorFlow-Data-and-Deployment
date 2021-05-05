@@ -1,5 +1,6 @@
 # TensorFlow-Data-and-Deployment
 TensorFlow: Data and Deployment presented to you by the coolest AI community out there, Deep Learning Adventures!
+https://www.meetup.com/Deep-Learning-Adventures  
 
 ![alt text](images/Deep-Learning-Adventures.png)
 
