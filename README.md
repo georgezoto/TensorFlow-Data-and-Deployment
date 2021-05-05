@@ -1,9 +1,13 @@
 # TensorFlow-Data-and-Deployment
 TensorFlow: Data and Deployment  
 
+![alt text](images/Deep-Learning-Adventures.png)
+
 Join us for our 5th adventure on our journey to deep learning and data science in general 🎉 with the TensorFlow: Data and Deployment Specialization  
 
 https://www.coursera.org/specializations/tensorflow-data-and-deployment  
+
+![alt text](images/TF-Data-and-Deployment-1.png)
 
 Continue developing your skills in TensorFlow as you learn to navigate through a wide range of deployment scenarios and discover new ways to use data more effectively when training your machine learning models.
 
